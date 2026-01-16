@@ -6,7 +6,7 @@ Atualmente focado em administração de sistemas, segurança da informação (Wa
 - 🔭 Trabalhando atualmente como: **Estagiário de TI na FIPERJ**
 - 🌱 Estudando: **Python, Shell Scripting e Linux Hardening**
 - ✈️ **Status:** Documentação pronta para Visto D1 (Portugal)
-- 💬 Pergunte-me sobre: **Linux (Pop!_OS/Zorin), Windows Troubleshooting e Hardware**
+- 💬 Pergunte-me sobre: **Linux, Windows Troubleshooting e Hardware**
 
 ---
 
