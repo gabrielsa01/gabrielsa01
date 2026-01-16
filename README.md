@@ -4,7 +4,7 @@ Sou um Analista de Suporte e Entusiasta Linux em transição de carreira para Po
 Atualmente focado em administração de sistemas, segurança da informação (Wazuh) e automação.
 
 - 🔭 Trabalhando atualmente como: **Estagiário de TI na FIPERJ**
-- 🌱 Estudando: **Python, cccc e Linux Hardening**
+- 🌱 Estudando: **Python, Shell Scripting e Linux Hardening**
 - ✈️ **Status:** Documentação pronta para Visto D1 (Portugal)
 - 💬 Pergunte-me sobre: **Linux (Pop!_OS/Zorin), Windows Troubleshooting e Hardware**
 
